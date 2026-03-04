@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XIAO")(type "KiCad")(uri "/home/knucklesfan/Downloads/XIAO_Series_Footprints/XIAO_Series_Footprints")(options "")(descr ""))
+)

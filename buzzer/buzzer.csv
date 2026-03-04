@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","Battery_Cell","","","","Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles","~"
+"BZ1","1","Buzzer","","","","Buzzer_Beeper:Buzzer_Mallory_AST1109MLTRQ","~"
+"D1","1","LED","","","","LED_THT:LED_D5.0mm","~"
+"Q1","1","SS8050","","","","Package_TO_SOT_SMD:SOT-23","http://www.secosgmbh.com/datasheet/products/SSMPTransistor/SOT-23/SS8050.pdf"
+"U1","1","XIAO-nRF52840-SMD","","","","XIAO:XIAO-nRF52840-SMD",""
